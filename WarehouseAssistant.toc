@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: WarehouseAssistant |cff7fff7f v2.1.10|r
+## Title: WarehouseAssistant |cff7fff7f v2.1.11|r
 ## Notes: Addon for monitoring online accounts of warehouse assistants.
 ## Author: Volodymyr Buinov
 ## Version: 2.1.10
